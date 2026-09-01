@@ -1,0 +1,11 @@
+Po zbudowaniu APK:
+
+1. Zmień nazwę app-debug.apk na Piko-Android.apk.
+2. Na serwerze utwórz:
+   public_html/piko.szkola.pl/android/
+3. Wgraj tam Piko-Android.apk.
+4. Link do instalatora:
+   https://piko.szkola.pl/android/Piko-Android.apk
+
+Android może poprosić o zgodę na "instalowanie nieznanych aplikacji"
+dla przeglądarki, z której APK jest pobierany.
